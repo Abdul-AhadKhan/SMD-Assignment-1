@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Assignment 1</string>
+    <string name="splash_screen">Splash Screen</string>
+    <string name="enter_your_name_here">Enter Your Name Here</string>
+    <string name="sender_details">SENDER \nDETAILS</string>
+    <string name="email">Email</string>
+    <string name="full_name">Full Name</string>
+    <string name="contact_information">Contact \nInformation</string>
+    <string name="country">Country</string>
+    <string name="address">Address</string>
+    <string name="btnSend">NEXT</string>
+    <string name="receiver_details">RECEIVER \nDETAILS</string>
+    <string name="empty_name_error">Kindly Enter Name</string>
+    <string name="empty_contact_error">Kindly Enter Contact</string>
+    <string name="empty_country_error">Kindly Enter Country</string>
+    <string name="empty_address_error">Kindly Enter Address</string>
+    <string name="empty_email_error">Kindly Enter Email</string>
+    <string name="heading_font">arial</string>
+    <string name="review_details">REVIEW DETAILS</string>
+    <string name="tbh_contact_info">Contact Info</string>
+    <string name="tbh_address">Address</string>
+    <string name="tbh_country">Country</string>
+    <string name="tbh_name">Name</string>
+</resources>
